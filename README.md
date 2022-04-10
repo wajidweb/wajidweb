@@ -12,13 +12,13 @@
 
 - 🌱 I’m currently learning **React JS, Node JS, React Native, MEARN Development.**
 
-- 👨‍💻 All of my projects are available at [https://wajidportfolio.web.app/](https://wajidportfolio.web.app/)
+- 👨‍💻 All of my projects are available at [https://wajidweb.github.io/wajidalikhan.github.io/](https://wajidweb.github.io/wajidalikhan.github.io/)
 
 - 💬 Ask me about **REACT JS, NODE JS, JAVASCRIPT, BOOTSRAP, HTML, CSS, JQUERY, SASS**
 
 - 📫 How to reach me **mrwajidalikhan42111@gmail.com**
 
-- 📄 Know about my experiences [https://wajidportfolio.web.app/](https://wajidportfolio.web.app/)
+- 📄 Know about my experiences [https://wajidweb.github.io/wajidalikhan.github.io/](https://wajidweb.github.io/wajidalikhan.github.io/)
 
 - ⚡ Fun fact **LATE NIGHT MUSICIANS 🎧**
 
