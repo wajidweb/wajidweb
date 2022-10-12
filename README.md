@@ -10,11 +10,11 @@
     <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🌱 I’m currently learning **React JS, Node JS, React Native, MEARN Development.**
+- 🌱 I’m currently working in  **React JS, Node JS, MERN Development.**
 
 - 👨‍💻 All of my projects are available at [https://wajidweb.github.io/wajidalikhan.github.io/](https://wajidweb.github.io/wajidalikhan.github.io/)
 
-- 💬 Ask me about **REACT JS, NODE JS, JAVASCRIPT, BOOTSRAP, HTML, CSS, JQUERY, SASS**
+- 💬 Ask me about **REACT JS, NODE JS,MondoDB, Mysql JAVASCRIPT, BOOTSRAP, HTML, CSS, JQUERY, SASS**
 
 - 📫 How to reach me **mrwajidalikhan42111@gmail.com**
 
