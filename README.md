@@ -1,4 +1,4 @@
-  <img align="left" alt="Coding" width="100%" height="600px"  src="https://images.unsplash.com/photo-1603178556437-e54c84091d1c?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"><br>
+  <img align="left" alt="Coding" width="100%" height="300px"  src="https://images.unsplash.com/photo-1603178556437-e54c84091d1c?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"><br>
 <h1 align="center">Hi 👋, I'm Wajid Ali Khan</h1>
 <h3 align="center">A PASSIONATE FULLSTACK DEVELOPER FROM PAKISTAN 🇵🇰</h3>
   
