@@ -1,4 +1,4 @@
-  <img align="left" alt="Coding" width="100%" height="300px"  src="https://img.freepik.com/free-vector/teenager-boy-bedroom-interior-computers-desk_107791-2738.jpg?t=st=1649010093~exp=1649010693~hmac=f21d4175ee6cbd064cd471a4e2fdbc47a4d5334dc3b08b055470e035b6dbb1f1&w=1060"><br>
+  <img align="left" alt="Coding" width="100%" height="300px"  src="[https://img.freepik.com/free-vector/teenager-boy-bedroom-interior-computers-desk_107791-2738.jpg?t=st=1649010093~exp=1649010693~hmac=f21d4175ee6cbd064cd471a4e2fdbc47a4d5334dc3b08b055470e035b6dbb1f1&w=1060](https://gemini.google.com/share/866059b1bf22)"><br>
 <h1 align="center">Hi 👋, I'm Wajid Ali Khan</h1>
 <h3 align="center">A PASSIONATE FULLSTACK DEVELOPER FROM PAKISTAN 🇵🇰</h3>
   
