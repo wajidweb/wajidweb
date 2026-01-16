@@ -27,10 +27,8 @@ Pakistan • React • Next • Node.js • MongoDB • API Design
 
 ### About
 
-I am a full-stack developer with solid experience in designing and building production-ready web applications.  
-My work focuses on clean architecture, performance, and long-term maintainability.
-
-I enjoy working across the stack — from crafting intuitive user interfaces to designing robust back-end systems and APIs. I value clarity in code, thoughtful system design, and practical solutions that scale.
+I’m a full-stack developer skilled in delivering production-ready applications built on clean architecture, optimized performance, and maintainability.
+Passionate about crafting seamless user experiences and designing robust, scalable back-end systems with clear, efficient code.
 
 ---
 
