@@ -36,19 +36,11 @@ I enjoy working across the stack — from crafting intuitive user interfaces to 
 
 ### What I Work With
 
-- Frontend development using **React**, modern JavaScript, and responsive UI practices  
+- Frontend development using **React**, **Next**,  modern JavaScript, and responsive UI practices  
 - Backend development with **Node.js**, **Express**, and RESTful APIs  
 - Database design and optimization using **MongoDB** and **MySQL**  
 - Third-party integrations, authentication, payments, and webhooks  
 - Version control, deployment workflows, and production debugging
-
----
-
-### Current Focus
-
-- Building scalable MERN applications  
-- Improving application performance and reliability  
-- Writing clean, maintainable, and well-documented code
 
 ---
 
