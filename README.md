@@ -45,7 +45,7 @@ Passionate about crafting seamless user experiences and designing robust, scalab
 ### Get in Touch
 
 - Email: **mrwajidalikhan42111@gmail.com**  
-- Portfolio: https://wajidweb.github.io/wajidalikhan.github.io/
+- Portfolio: https://wajidalikhan-portfolio.vercel.app/
 
 ---
 
